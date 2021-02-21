@@ -11,7 +11,7 @@ Comp ""
 Comment1 ""
 Comment2 ""
 Comment3 ""
-Comment4 "Recreation of an Atari CX-50 keyboard controller."
+Comment4 "Faceplate for use with A2600 Keyboard, this one has shortcuts for basic cartridge."
 $EndDescr
 $Comp
 L mounting:Mounting M1

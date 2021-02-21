@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Atari 2600 Keyboard Faceplate (Basic)"
+Title "Atari 2600 Keyboard Faceplate (BASIC)"
 Date ""
 Rev "A"
 Comp ""
