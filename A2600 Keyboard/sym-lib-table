@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name atari_ports)(type Legacy)(uri "D:/ownCloud/Documents/Projects/A2600 Keyboard/common/library/atari_ports.lib")(options "")(descr ""))
+  (lib (name mounting)(type Legacy)(uri "D:/ownCloud/Documents/Projects/A2600 Keyboard/common/library/mounting.lib")(options "")(descr ""))
+)
