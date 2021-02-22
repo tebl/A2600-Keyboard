@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name atari_ports)(type Legacy)(uri $KIPRJMOD/../../common/library/atari_ports.lib)(options "")(descr ""))
+  (lib (name mounting)(type Legacy)(uri $KIPRJMOD/../../common/library/mounting.lib)(options "")(descr ""))
+)
